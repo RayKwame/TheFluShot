@@ -4,3 +4,4 @@ pandas==1.2.1
 scipy==1.6.0
 statsmodels==0.12.2
 sklearn==0.0
+pandas-profiling==2.11.0
