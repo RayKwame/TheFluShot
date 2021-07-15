@@ -111,7 +111,7 @@ def run_training():
         # saving the model
         logger.info("Saving model in the model folder")
         path = "models/linear"
-        save_model(sk_model=reg, path=path)
+        #save_model(sk_model=reg, path=path)
         # logging the model to mlflow will not work without a AWS Connection setup.. too complex for now
 
 
