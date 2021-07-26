@@ -1,3 +1,7 @@
+# Link to dashboard repository:
+
+https://github.com/christinarudolf/fight-the-flu-dash
+
 # The features in this dataset
 You are provided a dataset with 36 columns. The first column respondent_id is a unique and random identifier. The remaining 35 features are described below.
 
